@@ -1,0 +1,40 @@
+C:\Users\Refael\Desktop\heder kosher\Heder Kosher\Heder Kosher\bin\Debug\Heder Kosher.exe
+C:\Users\Refael\Desktop\heder kosher\Heder Kosher\Heder Kosher\bin\Debug\Heder Kosher.pdb
+C:\Users\Refael\Desktop\heder kosher\Heder Kosher\Heder Kosher\obj\Debug\Heder Kosher.csprojResolveAssemblyReference.cache
+C:\Users\Refael\Desktop\heder kosher\Heder Kosher\Heder Kosher\obj\Debug\Heder_Kosher.Login.resources
+C:\Users\Refael\Desktop\heder kosher\Heder Kosher\Heder Kosher\obj\Debug\Heder_Kosher.Properties.Resources.resources
+C:\Users\Refael\Desktop\heder kosher\Heder Kosher\Heder Kosher\obj\Debug\Heder Kosher.csproj.GenerateResource.Cache
+C:\Users\Refael\Desktop\heder kosher\Heder Kosher\Heder Kosher\obj\Debug\Heder Kosher.exe
+C:\Users\Refael\Desktop\heder kosher\Heder Kosher\Heder Kosher\obj\Debug\Heder Kosher.pdb
+C:\Users\Refael\Desktop\heder kosher\Heder Kosher\Heder Kosher\obj\Debug\Heder_Kosher.InstructorMain.resources
+C:\Users\Refael\Desktop\heder kosher\Heder Kosher\Heder Kosher\obj\Debug\Heder_Kosher.ReceptionMain.resources
+C:\Users\Refael\Desktop\heder kosher\Heder Kosher\Heder Kosher\obj\Debug\Heder_Kosher.StudentMain.resources
+C:\Users\Refael\Desktop\heder kosher\Heder Kosher\Heder Kosher\obj\Debug\Heder_Kosher.TrainerMain.resources
+C:\Users\Refael\Desktop\heder kosher\Heder Kosher\Heder Kosher\obj\Debug\Heder_Kosher.AddRemoveEmployee.resources
+C:\Users\Refael\Desktop\heder kosher\Heder Kosher\Heder Kosher\obj\Debug\Heder_Kosher.ManagerMain.resources
+C:\Users\Refael\Desktop\heder kosher\Heder Kosher\Heder Kosher\obj\Debug\Heder_Kosher.TrainingProgramWindow.resources
+C:\Users\Refael\Desktop\heder kosher\Heder Kosher\Heder Kosher\obj\Debug\Heder_Kosher.RegisterAndRemoveStudentFromClassSecretaryWindow.resources
+C:\Users\Refael\Desktop\heder kosher\Heder Kosher\Heder Kosher\obj\Debug\Heder_Kosher.RegisterAndRemoveStudentFromClassStudentWindow.resources
+C:\Users\Refael\Desktop\heder kosher\Heder Kosher\Heder Kosher\obj\Debug\Heder_Kosher.AddStudent.resources
+C:\Users\Refael\Desktop\heder kosher\Heder Kosher\Heder Kosher\obj\Debug\Heder_Kosher.RemoveStudent.resources
+C:\Users\Refael\Desktop\heder kosher\Heder Kosher\Heder Kosher\obj\Debug\Heder_Kosher.EditClassByManager.resources
+C:\Users\B.o.G\Dropbox\פרוייקט מתעדכן\heder kosher\heder kosher\heder kosher\Heder Kosher\obj\Debug\Heder Kosher.exe
+C:\Users\B.o.G\Dropbox\פרוייקט מתעדכן\heder kosher\heder kosher\heder kosher\Heder Kosher\obj\Debug\Heder Kosher.pdb
+C:\Users\B.o.G\Dropbox\פרוייקט מתעדכן\heder kosher\heder kosher\heder kosher\Heder Kosher\bin\Debug\Heder Kosher.exe
+C:\Users\B.o.G\Dropbox\פרוייקט מתעדכן\heder kosher\heder kosher\heder kosher\Heder Kosher\bin\Debug\Heder Kosher.pdb
+C:\Users\B.o.G\Dropbox\פרוייקט מתעדכן\heder kosher\heder kosher\heder kosher\Heder Kosher\obj\Debug\Heder Kosher.csprojResolveAssemblyReference.cache
+C:\Users\B.o.G\Dropbox\פרוייקט מתעדכן\heder kosher\heder kosher\heder kosher\Heder Kosher\obj\Debug\Heder_Kosher.AddRemoveEmployee.resources
+C:\Users\B.o.G\Dropbox\פרוייקט מתעדכן\heder kosher\heder kosher\heder kosher\Heder Kosher\obj\Debug\Heder_Kosher.AddStudent.resources
+C:\Users\B.o.G\Dropbox\פרוייקט מתעדכן\heder kosher\heder kosher\heder kosher\Heder Kosher\obj\Debug\Heder_Kosher.EditClassByManager.resources
+C:\Users\B.o.G\Dropbox\פרוייקט מתעדכן\heder kosher\heder kosher\heder kosher\Heder Kosher\obj\Debug\Heder_Kosher.InstructorMain.resources
+C:\Users\B.o.G\Dropbox\פרוייקט מתעדכן\heder kosher\heder kosher\heder kosher\Heder Kosher\obj\Debug\Heder_Kosher.Login.resources
+C:\Users\B.o.G\Dropbox\פרוייקט מתעדכן\heder kosher\heder kosher\heder kosher\Heder Kosher\obj\Debug\Heder_Kosher.Properties.Resources.resources
+C:\Users\B.o.G\Dropbox\פרוייקט מתעדכן\heder kosher\heder kosher\heder kosher\Heder Kosher\obj\Debug\Heder_Kosher.ManagerMain.resources
+C:\Users\B.o.G\Dropbox\פרוייקט מתעדכן\heder kosher\heder kosher\heder kosher\Heder Kosher\obj\Debug\Heder_Kosher.ReceptionMain.resources
+C:\Users\B.o.G\Dropbox\פרוייקט מתעדכן\heder kosher\heder kosher\heder kosher\Heder Kosher\obj\Debug\Heder_Kosher.RegisterAndRemoveStudentFromClassSecretaryWindow.resources
+C:\Users\B.o.G\Dropbox\פרוייקט מתעדכן\heder kosher\heder kosher\heder kosher\Heder Kosher\obj\Debug\Heder_Kosher.RegisterAndRemoveStudentFromClassStudentWindow.resources
+C:\Users\B.o.G\Dropbox\פרוייקט מתעדכן\heder kosher\heder kosher\heder kosher\Heder Kosher\obj\Debug\Heder_Kosher.RemoveStudent.resources
+C:\Users\B.o.G\Dropbox\פרוייקט מתעדכן\heder kosher\heder kosher\heder kosher\Heder Kosher\obj\Debug\Heder_Kosher.StudentMain.resources
+C:\Users\B.o.G\Dropbox\פרוייקט מתעדכן\heder kosher\heder kosher\heder kosher\Heder Kosher\obj\Debug\Heder_Kosher.TrainerMain.resources
+C:\Users\B.o.G\Dropbox\פרוייקט מתעדכן\heder kosher\heder kosher\heder kosher\Heder Kosher\obj\Debug\Heder_Kosher.TrainingProgramWindow.resources
+C:\Users\B.o.G\Dropbox\פרוייקט מתעדכן\heder kosher\heder kosher\heder kosher\Heder Kosher\obj\Debug\Heder Kosher.csproj.GenerateResource.Cache
